@@ -1,0 +1,47 @@
+body {
+  background: black;
+}
+
+.container {
+  border: 10px solid #cc0000;
+  width: 60%;
+  margin: 20px auto 0 auto;
+  height: 600px;
+  background: white;
+  border-radius: 20px;
+}
+
+.title {
+  display: block;
+  text-align: center;
+  color: black;
+  font-family: 'Sedgwick Ave Display', cursive;
+  font-size: 3em;
+}
+
+.generate-btn {
+  border-radius: 20px;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  width: 40%;
+  font-family: 'Sedgwick Ave Display', cursive;
+  font-size: 1.5em;
+  padding: 10px;
+  color: #cc0000;
+  background: black;
+}
+
+.lyrics {
+  color: black;
+  text-align: center; 
+  font-family: 'Space Mono', monospace;
+  font-size: 2em;
+}
+
+.rapper-name {
+  color: black;
+  text-align: center; 
+  font-family: 'Space Mono', monospace;
+  font-size: 1.2em;
+}
